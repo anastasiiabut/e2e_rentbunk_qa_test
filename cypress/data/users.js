@@ -1,0 +1,1 @@
+export const tenant = { email: 'john.galt@gmail.com', password: 'Qwerty_1'}

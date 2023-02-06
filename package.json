@@ -1,0 +1,14 @@
+{
+  "name": "e2e_rentbunk",
+  "version": "1.0.0",
+  "description": "e2e tests for rentbunk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "abut",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "12.5.1"
+  }
+}
